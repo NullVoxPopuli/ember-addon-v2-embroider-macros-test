@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@embroider/addon-shim": "^1.0.0",
-    "ts-lib": ">= 0.0.5"
+    "@embroider/macros": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.16.12",
